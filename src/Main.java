@@ -4,7 +4,6 @@
 //        Aggiungere 4 elementi alla collezione e stampare la collezione aggiornata in console
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Main {
